@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
             case "profile":
                 return "https://your-webhook-url.com/profile";
             case "register":
-                return "https://your-webhook-url.com/register";
+                return "https://script.google.com/macros/s/AKfycbyJ3nqioqhhBqGtnOP_dvVTDm0-vuW4gN6Ey6oiCuA274yfAN5Qx-HjfaVoJYu4b46z/exec";
             default:
                 return "#";
         }
